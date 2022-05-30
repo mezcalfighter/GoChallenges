@@ -7,12 +7,12 @@ I am currently learning Golang, this is a practice resource. Feel free to check 
 * Code Challenges from: [Coderbyte](https://www.coderbyte.com/challenges)
 
 ### Prerequisites
-* Golang
+* [Golang](https://go.dev/dl/) 1.18 or above
 * Terminal (Gitbash on VS Code should do)
 
 ### Installation
 
-1. Install [Golang](https://go.dev/dl/) 
+1. Install [Golang](https://go.dev/dl/) 1.18 or above
 2. Clone the repo
    ```sh
    git clone [https://github.com/your_username_/Project-Name.git](https://github.com/CristianOrtega97/GoChallenges.git)
