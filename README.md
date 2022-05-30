@@ -27,8 +27,8 @@ There is no corporate usage other than personal, you might need to learn a bit o
 
 <!-- ROADMAP -->
 ## Roadmap
-1.- Factorial (Gets the factorial final result for any number you put in)
-2.- Question Mark Counter  (Counts the number of "?" in a string, if it is over 3 then it is true)
+1. Factorial (Gets the factorial final result for any number you put in)
+2. Question Mark Counter  (Counts the number of "?" in a string, if it is over 3 then it is true)
 
 <!-- CONTRIBUTING -->
 ## Contributing
