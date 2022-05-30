@@ -3,7 +3,7 @@
 I am currently learning Golang, this is a practice resource. Feel free to check my code
 
 ### Built With
-* [Golang](https://go.dev/dl/)
+* [Golang](https://go.dev/dl/) 1.18 or above
 * Code Challenges from: [Coderbyte](https://www.coderbyte.com/challenges)
 
 ### Prerequisites
@@ -12,10 +12,10 @@ I am currently learning Golang, this is a practice resource. Feel free to check 
 
 ### Installation
 
-1. Install Golang [https://example.com](https://example.com)
+1. Install [Golang](https://go.dev/dl/) 
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/CristianOrtega97/GoChallenges.git)
    ```
 3. Navigate thru folders
 4. Run each file using: "go run [file name]" (No brackets)
